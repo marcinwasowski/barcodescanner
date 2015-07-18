@@ -18,8 +18,8 @@ public class ViewFinderView extends View {
     private static final int MIN_FRAME_WIDTH = 240;
     private static final int MIN_FRAME_HEIGHT = 240;
 
-    private static final float LANDSCAPE_WIDTH_RATIO = 5f/8;
-    private static final float LANDSCAPE_HEIGHT_RATIO = 5f/8;
+    private static final float LANDSCAPE_WIDTH_RATIO = 4f/8;
+    private static final float LANDSCAPE_HEIGHT_RATIO = 4f/8;
     private static final int LANDSCAPE_MAX_FRAME_WIDTH = (int) (1920 * LANDSCAPE_WIDTH_RATIO); // = 5/8 * 1920
     private static final int LANDSCAPE_MAX_FRAME_HEIGHT = (int) (1080 * LANDSCAPE_HEIGHT_RATIO); // = 5/8 * 1080
 

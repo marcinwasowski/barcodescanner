@@ -5,7 +5,7 @@ import android.content.pm.PackageManager;
 import android.hardware.Camera;
 
 public class CameraUtils {
-    /** A safe way to get an instance of the Camera object. */
+    /*
     public static Camera getCameraInstance(){
         Camera c = null;
         try {
@@ -25,4 +25,5 @@ public class CameraUtils {
         }
         return false;
     }
+    */
 }
